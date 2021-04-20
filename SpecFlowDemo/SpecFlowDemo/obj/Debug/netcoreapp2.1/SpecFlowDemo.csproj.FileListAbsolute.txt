@@ -1,0 +1,4 @@
+C:\Users\42162\Desktop\Selenium Docs\SpecFlowDemo\SpecFlowDemo\obj\Debug\netcoreapp2.1\SpecFlowDemo.csprojAssemblyReference.cache
+C:\Users\42162\Desktop\Selenium Docs\SpecFlowDemo\SpecFlowDemo\obj\Debug\netcoreapp2.1\SpecFlowDemo.csproj.CoreCompileInputs.cache
+C:\Users\42162\Desktop\Selenium Docs\SpecFlowDemo\SpecFlowDemo\obj\Debug\netcoreapp2.1\SpecFlowDemo.AssemblyInfoInputs.cache
+C:\Users\42162\Desktop\Selenium Docs\SpecFlowDemo\SpecFlowDemo\obj\Debug\netcoreapp2.1\SpecFlowDemo.AssemblyInfo.cs
